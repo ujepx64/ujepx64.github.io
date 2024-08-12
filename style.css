@@ -1,0 +1,19 @@
+.card-img-top1 {
+    height: 440px;
+    object-fit: cover;
+    object-position: top;
+}
+.card-img-top {
+    height: 320px;
+    object-fit: cover;
+    object-position: top;
+}
+.jumbotron-image {
+    background-attachment: static;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+  }
+.img-thumbnail {
+    width: 30%;
+}
