@@ -1,2 +1,2 @@
-# ujepx64.github.io
-my portofolio site
+# Hello 👋
+[my portofolio site](https://ujepx64.github.io/profil)
